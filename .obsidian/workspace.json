@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 семестр/Методы оптимизации.md",
+                "file": "6 семестр/Схемотехника.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методы оптимизации"
+              "title": "Схемотехника"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 семестр/Схемотехника.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Схемотехника"
+              "title": "README"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "6b880b376f617c5e",
   "lastOpenFiles": [
-    "6 семестр/Методы оптимизации.md",
     "6 семестр/Схемотехника.md",
+    "README.md",
+    "6 семестр/Методы оптимизации.md",
     "5 семестр/Базы данных.md",
     "6 семестр",
     "5 семестр/Операционные системы.md",
@@ -189,7 +190,6 @@
     "images/diagram3.png",
     "images/diagram2.png",
     "images/diagram1.png",
-    "Welcome.md",
     "images/Pasted image 20240921105855.png",
     "images",
     "5 семестр/Сети и телекоммуникации.md",
