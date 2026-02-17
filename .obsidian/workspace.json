@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "cf3545d2bdc45e06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "8843fe983a3b5e1b",
             "type": "leaf",
             "pinned": true,
@@ -53,8 +65,7 @@
               "title": "Схемотехника"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86803fe54222b59f",
+  "active": "fd5f98e3d1778ef8",
   "lastOpenFiles": [
     "6 семестр/Схемотехника.md",
     "6 семестр/Модели и методы анализа проектных решений.md",
