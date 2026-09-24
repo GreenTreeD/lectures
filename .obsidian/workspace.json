@@ -8,35 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b71852381b35f3c",
+            "id": "e47e10d8d63c9012",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 семестр/Модели исследования операций.md",
+                "file": "7 семестр/ЭВМ.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Модели исследования операций"
+              "title": "ЭВМ"
             }
           },
           {
-            "id": "5bf4bc97741a65b7",
+            "id": "974815502bc1c0d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 семестр/Экономика.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Экономика"
+              "title": "README"
+            }
+          },
+          {
+            "id": "1ee98192c6b4ba7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 семестр/Экономика Семинары.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Экономика Семинары"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,29 +197,33 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4dfbe46412cdf6a0",
+  "active": "1ee98192c6b4ba7e",
   "lastOpenFiles": [
-    "images/Pasted image 20260909124516.png",
-    "7 семестр/Модели исследования операций.md",
+    "-.md",
+    "-.pdf",
+    "7 семестр/Экономика Семинары.md",
     "7 семестр/Экономика.md",
-    "images/Pasted image 20260909124141.png",
-    "images/Pasted image 20260909123929.png",
-    "images/Pasted image 20260908124445.png",
-    "images/Pasted image 20260909122048.png",
+    "7 семестр/Экология Семинары.md",
+    "7 семестр/Модели исследования операций.md",
+    "images/Pasted image 20260922125407.png",
     "7 семестр/ЭВМ.md",
-    "6 семестр/Модели и методы анализа проектных решений.md",
-    "7 семестр/Модели и методы анализа проектных решений.md",
-    "7 семестр/Компьютерная графика.md",
     "README.md",
-    "images/Pasted image 20260908121514.png",
+    "7 семестр/Компьютерная графика.md",
+    "7 семестр/Модели и методы анализа проектных решений.md",
+    "images/Pasted image 20260918183931.png",
+    "images/Pasted image 20260918183928.png",
+    "images/Pasted image 20260917174335.png",
+    "images/Pasted image 20260918183755.png",
+    "images/Pasted image 20260918181656.png",
+    "images/Pasted image 20260918175840.png",
+    "images/Pasted image 20260917182918.png",
+    "images/Pasted image 20260917181813.png",
+    "images/Pasted image 20260917181611.png",
+    "7 семестр/Технологии разработки веб-приложений.md",
+    "6 семестр/Модели и методы анализа проектных решений.md",
     "6 семестр/Схемотехника.md",
-    "images/Pasted image 20260908121324.png",
-    "images/Pasted image 20250423141139.png",
     "7 семестр",
-    "images/Pasted image 20250421105617.png",
     "6 семестр/Методы оптимизации.md",
-    "images/Pasted image 20250423131001.png",
-    "images/Pasted image 20250423130712.png",
     "Геометрическое моделирование.md",
     "5 семестр/Базы данных.md",
     "6 семестр",
