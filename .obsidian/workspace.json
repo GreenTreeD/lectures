@@ -68,21 +68,19 @@
             }
           },
           {
-            "id": "6b4acc067952b840",
+            "id": "7b0a9a9fe6c68684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20261009175409.png"
               },
-              "icon": "lucide-file",
-              "title": "Без названия"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261009175409"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,30 +225,30 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "6b4acc067952b840",
+  "active": "4dfbe46412cdf6a0",
   "lastOpenFiles": [
-    "7 семестр/Модели исследования операций.md",
-    "Без названия.md",
     "7 семестр/Модели и методы анализа проектных решений.md",
+    "images/Pasted image 20261016184445.png",
+    "images/Pasted image 20261016183319.png",
+    "images/Pasted image 20261016181908.png",
+    "images/Pasted image 20261016181721.png",
+    "7 семестр/Компьютерная графика.md",
+    "7 семестр/Модели исследования операций.md",
+    "7 семестр/Технологии разработки веб-приложений.md",
+    "7 семестр/ЭВМ.md",
+    "7 семестр/Экология Семинары.md",
+    "images/Pasted image 20261009175409.png",
+    "images/Pasted image 20261009182408.png",
+    "images/Pasted image 20261009181756.png",
+    "images/Pasted image 20261009180119.png",
+    "7 семестр/Экономика Семинары.md",
+    "Без названия.md",
     "images/Pasted image 20261001165141.png",
     "images/Pasted image 20261006124248.png",
-    "7 семестр/Компьютерная графика.md",
-    "7 семестр/ЭВМ.md",
-    "images/Pasted image 20261001165634.png",
-    "images/Pasted image 20261001162110.png",
-    "images/Pasted image 20260929130925.png",
-    "images/Pasted image 20260929125557.png",
-    "images/Pasted image 20260929124501.png",
-    "7 семестр/Технологии разработки веб-приложений.md",
-    "images/Pasted image 20260925184747.png",
-    "images/Pasted image 20260925174413.png",
-    "images/Pasted image 20260925184157.png",
     "README.md",
     "-.md",
     "-.pdf",
-    "7 семестр/Экономика Семинары.md",
     "7 семестр/Экономика.md",
-    "7 семестр/Экология Семинары.md",
     "6 семестр/Модели и методы анализа проектных решений.md",
     "6 семестр/Схемотехника.md",
     "7 семестр",
