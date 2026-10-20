@@ -40,47 +40,21 @@
             }
           },
           {
-            "id": "1ee98192c6b4ba7e",
+            "id": "a8a94c0bf197493e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 семестр/Компьютерная графика.md",
+                "file": "7 семестр/Экология Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Компьютерная графика"
-            }
-          },
-          {
-            "id": "fa646aa8973209cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 семестр/Модели исследования операций.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Модели исследования операций"
-            }
-          },
-          {
-            "id": "7b0a9a9fe6c68684",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20261009175409.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261009175409"
+              "title": "Экология Лекции"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,24 +201,25 @@
   },
   "active": "4dfbe46412cdf6a0",
   "lastOpenFiles": [
+    "7 семестр/Модели исследования операций.md",
+    "images/Pasted image 20261020130545.png",
+    "images/Pasted image 20261020130423.png",
+    "images/Pasted image 20261020130046.png",
+    "images/Pasted image 20261020125232.png",
+    "images/Pasted image 20261020124716.png",
+    "images/Pasted image 20261020123947.png",
+    "images/Pasted image 20261020121346.png",
+    "images/Pasted image 20261020120238.png",
+    "Pasted image 20261020120004.png",
+    "7 семестр/Экология Лекции.md",
     "7 семестр/Модели и методы анализа проектных решений.md",
     "images/Pasted image 20261016184445.png",
-    "images/Pasted image 20261016183319.png",
-    "images/Pasted image 20261016181908.png",
-    "images/Pasted image 20261016181721.png",
     "7 семестр/Компьютерная графика.md",
-    "7 семестр/Модели исследования операций.md",
     "7 семестр/Технологии разработки веб-приложений.md",
     "7 семестр/ЭВМ.md",
     "7 семестр/Экология Семинары.md",
-    "images/Pasted image 20261009175409.png",
-    "images/Pasted image 20261009182408.png",
-    "images/Pasted image 20261009181756.png",
-    "images/Pasted image 20261009180119.png",
     "7 семестр/Экономика Семинары.md",
     "Без названия.md",
-    "images/Pasted image 20261001165141.png",
-    "images/Pasted image 20261006124248.png",
     "README.md",
     "-.md",
     "-.pdf",
